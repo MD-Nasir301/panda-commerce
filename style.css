@@ -25,7 +25,6 @@ nav {
     margin-top: 15px;
 }
 .buy-btn:hover {
-    color: white;
     text-decoration: none;
 }
 .carousel-img {
@@ -56,7 +55,7 @@ nav {
 .category3 {
     background-image: linear-gradient(to right, #4279FF, #3906F5);
 }
-
+/* shoes */
 .shoes-area {
     margin-bottom: 70px;
 }
@@ -68,11 +67,12 @@ nav {
     border-radius: 10px;
     box-shadow: 5px 5px 10px #8080807d;
 }
+/* bagpack */
 .card-footer {
     background: white;
     border: none;
 }
-
+/* contect */
 .contact-box {
     text-align: center;
     padding: 50px 0 90px;
@@ -92,6 +92,7 @@ nav {
     color: #ffff;
     margin-left: -3px;
 }
+/* footer */
 footer p {
     padding: 20px 0;
     margin: 0;
