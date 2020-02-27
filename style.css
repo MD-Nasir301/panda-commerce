@@ -26,6 +26,7 @@ nav {
 }
 .buy-btn:hover {
     text-decoration: none;
+	color: white;
 }
 .carousel-img {
     padding: 20px;
